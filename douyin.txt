@@ -7,7 +7,7 @@
 /byteeff/$client='changtekiiPhone'
 /huoshanli/$client='changtekiiPhone'
 /bytedance/$client='changtekiiPhone'
-#/pstatp/$client='changtekiiPhone'
+/pstatp/$client='changtekiiPhone'
 /byteimg/$client='changtekiiPhone'
 /ecombd/$client='changtekiiPhone'
 /toutiao/$client='changtekiiPhone'
