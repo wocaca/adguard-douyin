@@ -1,10 +1,8 @@
 [douyin 2.0]
-! Title: GOODBYEADS
+! Title: GOODBDS
 ! Expires: 12 Hours
 ! Description: 该规则
 ! Version: 2024-01-28 20:27:59（北京时间） 
-! Total count: 177794
-
 
 ||livefeedcard-qc.xhscdn.com^$client='changtekiiPhone'
 ||snssdk.com^$client='changtekiiPhone'
