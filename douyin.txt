@@ -1,3 +1,6 @@
+
+
+||livefeedcard-qc.xhscdn.com^$client='changtekiiPhone'
 ||snssdk.com^$client='changtekiiPhone'
 ||ixigua.com^$client='changtekiiPhone'
 ||amemv.com^$client='changtekiiPhone'
@@ -14,6 +17,12 @@
 /bytefcdn/$client='changtekiiPhone'
 /ksyuncdn/$client='changtekiiPhone'
 /bytedns/$client='changtekiiPhone'
-#/ovslegovideo/$client='changtekiiPhone'
+/ovslegovideo/$client='changtekiiPhone'
 /-dy-/$client='changtekiiPhone'
 /zijieapi/$client='changtekiiPhone'
+
+
+/tiktokcdn/$client='changtekiiPhone'
+
+
+
