@@ -1,5 +1,5 @@
 [douyin 2.0]
-! Title: dy 
+! Title: dy-gaoke
 ! Expires: 12 Hours
 ! Description: 该规则
 ! Version: 2024-01-28 20:27:59（北京时间） 
