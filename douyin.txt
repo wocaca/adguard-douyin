@@ -4,26 +4,26 @@
 ! Description: 该规则
 ! Version: 2024-01-28 20:27:59（北京时间） 
 
-||livefeedcard-qc.xhscdn.com^$client='changtekiiPhone'
-||snssdk.com^$client='changtekiiPhone'
-||ixigua.com^$client='changtekiiPhone'
-||amemv.com^$client='changtekiiPhone'
-||bdurl.net^$client='changtekiiPhone'
-||yximgs.com^$client='changtekiiPhone'
-/douyi/$client='changtekiiPhone'
-/byteeff/$client='changtekiiPhone'
-/huoshanli/$client='changtekiiPhone'
-/bytedance/$client='changtekiiPhone'
-/pstatp/$client='changtekiiPhone'
-/byteimg/$client='changtekiiPhone'
-/ecombd/$client='changtekiiPhone'
-/toutiao/$client='changtekiiPhone'
-/bytefcdn/$client='changtekiiPhone'
-/ksyuncdn/$client='changtekiiPhone'
-/bytedns/$client='changtekiiPhone'
-/ovslegovideo/$client='changtekiiPhone'
-/-dy-/$client='changtekiiPhone'
-/zijieapi/$client='changtekiiPhone'
+||livefeedcard-qc.xhscdn.com^$ctag=os_ios
+||snssdk.com^$ctag=os_ios
+||ixigua.com^$ctag=os_ios
+||amemv.com^$ctag=os_ios
+||bdurl.net^$ctag=os_ios
+||yximgs.com^$ctag=os_ios
+/douyi/$ctag=os_ios
+/byteeff/$ctag=os_ios
+/huoshanli/$ctag=os_ios
+/bytedance/$ctag=os_ios
+/pstatp/$ctag=os_ios
+/byteimg/$ctag=os_ios
+/ecombd/$ctag=os_ios
+/toutiao/$ctag=os_ios
+/bytefcdn/$ctag=os_ios
+/ksyuncdn/$ctag=os_ios
+/bytedns/$ctag=os_ios
+/ovslegovideo/$ctag=os_ios
+/-dy-/$ctag=os_ios
+/zijieapi/$ctag=os_ios
 
 
-/tiktokcdn/$client='changtekiiPhone'
+/tiktokcdn/$ctag=os_ios
